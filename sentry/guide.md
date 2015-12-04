@@ -42,7 +42,7 @@ For example: `cf target -o sentry -s sentry`
   ```
 1. Get the Redis URL from the app environment and take note of it:
   `cf env sentry`
-1. Set required environment variables in your `manifes.yml` file:  
+1. Set required environment variables in your `manifest.yml` file:  
   (use the Redis settings from the previous step to set REDIS_URL)  
 
   ```
