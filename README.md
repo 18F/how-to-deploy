@@ -6,8 +6,15 @@ to Cloud Foundry.
 ## Common pre-requisites
 
 1. A Cloud Foundry account.
-1. The (CF cli)[https://github.com/cloudfoundry/cli#downloads].
+1. The [CF cli](https://github.com/cloudfoundry/cli#downloads).
 1. Access to services for persistence.
+
+## Ideas on how to get started
+
+1. Search online first to see if there is a guide for "how to deploy x to Cloud Foundry"
+1. Search the same but use "heroku" instead of "Cloud Foundry" most of the time
+the deployment is similar
+
 
 ## How to contribute
 
