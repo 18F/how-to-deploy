@@ -22,5 +22,5 @@ There are multiple CF flavors and not all installations are exactly the same so
 when sending a pull request please try to keep it as agnostic as possible.
 
 1. Create a directory with the name of the project you want to deploy.
-1. Add a `guide.md` file with the main instructions for deployment.
+1. Add a `README.md` file with the main instructions for deployment.
 1. If there are any files required, please create a `files` sub-directory with them.
