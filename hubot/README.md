@@ -19,6 +19,7 @@ These instructions come from the instructions for [hubot for slack](https://gith
 #### Testing your bot locally
 
 - `HUBOT_SLACK_TOKEN=xoxb-1234-5678-91011-00e4dd ./bin/hubot --adapter slack`
+  - *Note:* The token above is a sample token and not a real token.
 
 #### Deploying to Cloud Foundry
 
