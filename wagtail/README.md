@@ -22,7 +22,7 @@ We will create a user by pushing a local sqlite file with a created account.
 
 #### Add a Procfile to the root of your project
 ```
-web: python manage.py migrate && python manage.py runserver $HOST:$PORT
+web: python manage.py migrate && python manage.py runserver 0.0.0.0:$PORT
 ```
 
 _Note: This will create a new superuser every deploy for now_
